@@ -4,10 +4,9 @@
 
 .button {
   position: absolute;
-  top: 30%;
-  left: 50%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%);
+  margin: 10em auto 0 auto;
+  left: 0;
+  right: 0;
   width: 30%;
   background: none;
   border: 1px solid #fff;
@@ -24,9 +23,9 @@ p {
 }
 
 .blip-btn {
-  position: relative;
+  width: auto;
+  margin: 30px;
   background: #3FA9F5;
-  left: 15%;
 }
 
 .blip {
