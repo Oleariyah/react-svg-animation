@@ -67,7 +67,7 @@ export default () => {
         <h1>Well, that was revealing...</h1>
         <p>Isn't this cool? Here is more text to fill the space a bit more.</p>
         <button className="button blip-btn" onClick={handleBackButton}>
-          Click me!
+          Go Back!
         </button>
       </div>
     </Fragment>
